@@ -1,5 +1,5 @@
 # ri_li_cha_xun
-creat a ri_li_cha_xun by Python.
+使用Python创建一个简单的日历查询软件
 
 # 功能说明
 可以通过此Python程序查询某年某月某天在这一年中的序号
